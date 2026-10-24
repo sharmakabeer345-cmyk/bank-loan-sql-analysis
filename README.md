@@ -49,6 +49,6 @@ SQL analysis of **38,576 bank loan applications from 2021**. The queries measure
 ## Author
 
 **KABEER SHARMA**
-MBA (Finance \& Business Analatics)
+MBA (Finance & Business Analytics)
 LinkedIn: www.linkedin.com/in/kabeer-sharma-7b3813340
 
